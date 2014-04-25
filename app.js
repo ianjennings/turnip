@@ -18,13 +18,16 @@ var Parser = function(file) {
   var self = this;
   var lines = file.toString().split("\n");
   var bundles = [];
-  var beats = [];
+
+  self.beats = [];
 
   self.init = function() {
 
     var bundle = [];
     var beat = 0;
+    var measure = -1;
     var measure_first_beat = 0;
+    var last_measure = 0;
 
     for(j in lines) {
 
@@ -54,10 +57,12 @@ var Parser = function(file) {
             */
 
             measure_first_beat = beat;
+            last_measure = measure;
 
             for(var k in bundle) {
 
               beat = measure_first_beat;
+              measure = last_measure;
 
               // each instrument
 
@@ -67,12 +72,12 @@ var Parser = function(file) {
 
               for(var l = 1; l < bundle[k].length; l++) {
 
+                measure++;
+
                 // each group of notes
                 /*
                 [ 'x-----------', '------------' ]
                 */
-
-                console.log(bundle[k][l])
 
                 for (var m = 0; m < bundle[k][l].length; m++) {
 
@@ -81,11 +86,12 @@ var Parser = function(file) {
                   [ 'x', '-', '-', '-', '-', '-', etc...]
                   */
 
-                  if(typeof beats[beat] == "undefined") {
-                    beats[beat] = {};
+                  if(typeof self.beats[beat] == "undefined") {
+                    self.beats[beat] = {};
                   }
 
-                  beats[beat][bundle[k][0].toLowerCase()] = bundle[k][l][m];
+                  self.beats[beat][bundle[k][0].toLowerCase()] = bundle[k][l][m];
+                  self.beats[beat].measure = measure;
 
                   beat++;
 
@@ -105,8 +111,6 @@ var Parser = function(file) {
 
     }
 
-    console.log(beats);
-
   };
 
   self.init();
@@ -115,4 +119,5 @@ var Parser = function(file) {
 
 };
 
-var a_parser = new Parser(file);
+var parser = new Parser(file);
+console.log(parser.beats);
