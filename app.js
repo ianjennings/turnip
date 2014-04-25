@@ -31,7 +31,7 @@ var Parser = function(file) {
 
     for(j in lines) {
 
-      if(j < 50) {
+      if(true) {
 
         var line = lines[j];
         var measures = line.split(config.measure);
@@ -87,10 +87,13 @@ var Parser = function(file) {
                   */
 
                   if(typeof self.beats[beat] == "undefined") {
-                    self.beats[beat] = {};
+                    self.beats[beat] = {
+                      hits: {},
+                      measure: 0
+                    };
                   }
 
-                  self.beats[beat][bundle[k][0].toLowerCase()] = bundle[k][l][m];
+                  self.beats[beat].hits[bundle[k][0].toLowerCase()] = bundle[k][l][m];
                   self.beats[beat].measure = measure;
 
                   beat++;
@@ -113,6 +116,24 @@ var Parser = function(file) {
 
   };
 
+  self.measures = function() {
+
+    var measures = [];
+
+    for(var i in self.beats) {
+
+      if(typeof measures[self.beats[i].measure] == 'undefined') {
+        measures[self.beats[i].measure] = [];
+      }
+
+      measures[self.beats[i].measure].push(self.beats[i].hits);
+
+    }
+
+    return measures;
+
+  };
+
   self.init();
 
   return self;
@@ -120,4 +141,4 @@ var Parser = function(file) {
 };
 
 var parser = new Parser(file);
-console.log(parser.beats);
+console.log(parser.measures());
