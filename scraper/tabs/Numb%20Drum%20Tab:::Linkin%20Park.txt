@@ -1,0 +1,209 @@
+<i></i>Song Title: Numb
+ Band Name: Linkin Park
+     Album: Meteora
+
+ Tabbed By: fuperman
+
+The intro has some effect on it, Mr Hahn is the one who has it on a preset,
+but when I saw them live the drummer was hitting the highhat in a
+4/4 beat so I included that. During the first verse my best guess is either a rim click 
+an elctronic snare, I really can't tell. This took a while so
+most of it should be right. But I don't know about the electronic parts.
+He only uses the his second mounted tom and his floor tom
+so most people have at least two so Enjoy!
+
+
+Key
+|---------------------------------|
+|0 = Open HighHat                 |
+|c = Chinese                      |
+|s = Splash                       |
+|X on hh = Accent                 |
+|# = Choke                        |
+|x on snare = Rim Click           |
+|                                 |
+|---------------------------------|
+
+
+In the verse there is electronic drums in the back ground and I did my best to tab them out.
+
+Actually while listening to it I believe it is the same as the intro. I don't know experiment.
+
+
+    Hh:| x---x---x---x--- | x---x---x---x--- | x---x---x---x--- | x---x---x---x--- |
+   BD1:| o--------------- | ---------------- | ---------------- | ---------------- |
+
+       Electronic Intro
+
+    Hh:| xx--x-xx--x-xx-- | xx--x--xx-x-x--- | xx--x-xx--x-xx-- | xx--x-----xx---- |
+   SnD:| ----o-------o--- | ----o-------o--- | ----o-------o--- | ----o----------- |
+   BD1:| o-----o---o--o-- | o---------o----- | o-----o---o--o-- | o--------------- |
+
+(Actually it is some kind of weird sound other than a bass drum, but used in preference of
+just playing it.)
+
+         Intro 2
+
+   Cym:| X--------------- | ---------------- | X--------------- |
+    Hh:| --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- | --O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o---o----- | o-----o---o--o-- | o-----o---o--o-- |
+
+
+                            Verse 1
+
+   Cym:| ------------C--- | S--------------- | ---------------- |
+    Hh:| O-O-O-O-O-O----- | --x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- |
+   SnD:| ---o--------o--- | ---x--------x--- | ---x--------x--- |
+   BD1:| o-----o---o----- | o-----o---o----- | o-----o--oo----- |
+
+
+    Hh:| x-x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- |
+   SnD:| ---x--------x--- | ---x--------x--- | ---x--------x--- |
+   BD1:| o-----o---o----- | o-----o--oo----- | o-----o---o----- |
+
+
+    Hh:| x-x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- |
+   SnD:| ---x--------x--- | ---x--------x--- | ---x--------x--- |
+   BD1:| o-----o--oo----- | o-----o---o----- | o-----o--oo----- |
+
+
+   Cym:| X--------------- | ---------------- | ---------------- |
+    Hh:| -xx-xxxxxxxx-xxx | xxx-xxxxxxxx-xxx | xxx-xxxxxxxx-xxx |
+   SnD:| ---x--------x--- | ---x--------x--- | ---x--------x--- |
+   BD1:| o-----o---o----- | o-----o--oo----- | o-----o---o----- |
+
+
+    Hh:| xxx-xxxxxxxx-xxx | xxx-xxxxxxxx-xxx | xxx-xxXXXXXX-XXX |
+   SnD:| ---x--------x--- | ---x--------x--- | ---x--------x--- |
+   BD1:| o-----o-ooo----- | o-----o---o----- | o-----o---o----- |
+
+
+         Chorus 1
+
+   Cym:| X--------------- | ---------------- | X--------------- |
+    Hh:| --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- | --O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o---o----- | o-----o---o--o-- | o-----o---o----- |
+
+
+   Cym:| ---------------- | X--------------- | ---------------- |
+    Hh:| O-O-O-O-O-O-O-O- | --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o---o--o-- | o-----o---o----- | o-----o---o--o-- |
+
+
+                                               Verse 2
+
+   Cym:| X--------------- | ---------------- | S--------------- |
+    Hh:| --O-O-O-O-O-O-O- | O-O-O-O-O-O----- | --x-x-x-x-x-x-x- |
+   SnD:| ---o--------o--- | ---o--------oooo | ---o--------o--- |
+   BD1:| o-----o---o--o-- | o-----o---o----- | o-----o---o----- |
+
+
+    Hh:| x-x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o--oo----- | o-----o---o----- | o-----o--oo----- |
+
+
+                          | ====== 2x ====== |
+    Hh:| x-x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- | x-x-x-x-x-x-x--- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o-oo |
+   BD1:| o-----o---o----- | o-----o--oo----- | o-----o--oo----- |
+
+
+   Cym:| X--------------- | ---------------- | ---------------- |
+    Hh:| -xx-xxxxxxxx-xxx | xxx-xxxxxxxx-xxx | xxx-xxxxxxxx-xxx |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o---o----- | o-----o--oo----- | o-----o---o----- |
+
+
+    Hh:| xxx-xxxxxxxx-xxx | xxx-xxxxxxxx-xxx | xxx-xx#xxxxx-xxx |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o-ooo----- | o-----o---o----- | o-----o--oo----- |
+
+
+                                               Chorus 2
+
+   Cym:| ---------------- | ---------------- | X--------------- |
+    Hh:| xxx-xxxxxxxx-xxx | XXX-XXXXO0O0O--- | --O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o-oo | ---o--------o--- |
+   BD1:| o-----o---o----- | o-----o-ooo----- | o-----o---o----- |
+
+
+   Cym:| ---------------- | X--------------- | ---------------- |
+    Hh:| O-O-O-O-O-O-O-O- | --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o---o--o-- | o-----o---o----- | o-----o---o--o-- |
+
+
+                          | ====== 2x ====== |
+   Cym:| X--------------- | ---------------- | X--------------- |
+    Hh:| --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- | --O-O-O-O------- |
+  Tom2:| ---------------- | ---------------- | ----------o----- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------oo-- |
+  FlT1:| ---------------- | ---------------- | --------------o- |
+   BD1:| o-----o---o----- | o-----o---o--o-- | o-----o--------- |
+
+
+         Interlude
+
+   Cym:| X---C----------- | X---C----------- | X---C----------- |
+    Hh:| --O---O-O-O-O-O- | --O---O-O-O-O-O- | --O---O-O-O-O-O- |
+   SnD:| ---oo-------o--- | ---oo-------o--- | ---oo-------o--- |
+   BD1:| o-----o---o----- | o-----o---o--o-- | o-----o---o----- |
+
+
+                                             | ====== 3x ====== |
+   Cym:| X---C----------- | X---C----------- | X---C----------- |
+    Hh:| --O---O-O-O-O-O- | --O---O-O-O-O-O- | --O---O-O-O-O-O- |
+   SnD:| ---oo-------o--- | ---oo-------o--- | ---oo-------o--- |
+   BD1:| o-----o---o--o-- | o-----o---o----- | o-----o---o--o-- |
+
+
+                            Chorus 3
+
+   Cym:| X---C----------- | X--------------- | ---------------- |
+    Hh:| --O---O-O-O----- | --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- |
+  Tom2:| --------------o- | ---------------- | ---------------- |
+   SnD:| ---oo---oo--oo-- | ---o--------o--- | ---o--------o--- |
+  FlT1:| ---------------o | ---------------- | ---------------- |
+   BD1:| o----------o---- | o-----o---o----- | o-----o---o--o-- |
+
+
+   Cym:| X--------------- | ---------------- | X--------------- |
+    Hh:| --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- | --O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o---o----- | o-----o---o--o-- | o-----o---o----- |
+
+
+   Cym:| ---------------- | X--------------- | ---------------- |
+    Hh:| O-O-O-O-O-O-O-O- | --O-O-O-O-O-O-O- | O-O-O-O-O-O----- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------oo-- |
+  FlT1:| ---------------- | ---------------- | --------------oo |
+   BD1:| o-----o---o--o-- | o-----o---o--o-- | o-----o---o----- |
+
+
+   Cym:| X--------------- | ---------------- | X--------------- |
+    Hh:| --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- | --O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o---o----- | o-----o---o--o-- | o-----o---o----- |
+
+
+   Cym:| ------------C--- | X--------------- | ---------------- |
+    Hh:| O-O-O-O-O-O---O- | --O-O-O-O-O-O-O- | O-O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o--- | ---o--------o--- |
+   BD1:| o-----o---o----- | o-----o---o----- | o-----o---o--o-- |
+
+
+   Cym:| X--------------- | X--------------- |
+    Hh:| --O-O-O-O-O-O-O- | --O-O-O-O-O-O-O- |
+   SnD:| ---o--------o--- | ---o--------o-o- |
+   BD1:| o-----o---o--o-- | o-----o---o----- |
+
+
+       Electronic Outro
+       | ====== 3x ====== |
+    Hh:| xxx-x-xxxxxx-xxx | xxx-x-xxxxxx---- |
+   SnD:| ---o--------o--- | ---o--------o--- |  Echo on the snare....
+   BD1:| o----o--o------- | o----o--o------- |

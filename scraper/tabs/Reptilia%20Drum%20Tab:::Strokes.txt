@@ -1,0 +1,109 @@
+<i></i>Reptilia by The Strokes
+from Room On Fire
+
+tabbed by fuperman
+
+H=Hi-Hat
+S=Snare
+B=Bass
+R=Ride Cymbal
+F=Floor Tom
+X=Slightly open/washy
+
+S|-------------oo-|
+B|------------o---|
+ |1e+a2e+a3e+a4e+a|
+
+H|--------|--------|--------|--------|
+S|--o---o-|--o---o-|--o---o-|--o---o-| _
+B|o----o--|o----o--|o----o--|o----o--| / 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/   x2
+
+H|XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|   At the start of
+S|--o---o-|--o---o-|--o---o-|--o---o-|   the 5th time add 
+B|o----o--|o----o--|o----o--|o----o--|   a crash to the  
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|    1st beat of the
+                                          x5  1st bar.
+H|XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|   /
+S|--o---o-|--o---o-|--o---o-|--o---o-|  /
+B|o----o--|o----o--|o----o--|o----o--| /
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/
+
+On the fifth time replace the last two bars with:-
+
+S|oooooooo|oooooooo| 
+B|oooooooo|oooooooo|
+ |1+2+3+4+|1+2+3+4+|
+
+S|o-------|--------|--------|--------|
+B|o-------|--------|--------|--------|
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+S|--------|--------|--------|--------oooooooo|        
+B|o-o-o-o-|o-o-o-o-|o-o-o-o-|o---o---o---o---| 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1e+a2e+a3e+a4e+a|
+
+R|xxxxxxxx|xxxxxxxx|xxxxxxxx|xxxxxxxx|
+S|--o---o-|--o---o-|--o---o-|--o---o-| _
+B|oo-ooo-o|oo-ooo-o|oo-ooo-o|oo-ooo-o| / 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/   x2
+
+R|xxxxxxxx|xxxxxxxx|xxxxxxxx|xxxxxxxx|
+S|o-o-o-o-|o-o-o-o-|o-o-o-o-|o-o-o-o-| _ 
+B|-o-o-o-o|-o-o-o-o|-o-o-o-o|-o-o-o-o| / 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/   x2
+
+H|xxxxxxxx|xxxxxxxx|xxxxxxxx|xxxxxxxx|
+S|--o---o-|--o---o-|--o---o-|--o---o-| _
+B|o---o---|o---o---|o---o---|o---o---| / 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/   x4
+
+F|oooooooo|oooooooo|oooooooo|oooooooo|
+S|--o---o-|--o---o-|--o---o-|--o---o-| _
+B|o----o--|o----o--|o----o--|o----o--| / 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/   x2
+
+H|XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|   At the start of 
+S|--o---o-|--o---o-|--o---o-|--o---o-|   the 2nd time add 
+B|o----o--|o----o--|o----o--|o----o--|   a crash to the  
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|    1st beat of the
+                                          x2  1st bar.
+H|XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|   /
+S|--o---o-|--o---o-|--o---o-|--o---o-|  /
+B|o----o--|o----o--|o----o--|o----o--| /
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/
+
+On the second time replace the last two bars with:-
+
+S|oooooooo|oooooooo| 
+B|oooooooo|oooooooo|
+ |1+2+3+4+|1+2+3+4+|
+
+S|o-------|--------|--------|--------|
+B|o-------|--------|--------|--------|
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+S|--------|--------|--------|--------oooooooo|        
+B|o-o-o-o-|o-o-o-o-|o-o-o-o-|o---o---o---o---| 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1e+a2e+a3e+a4e+a|
+
+R|xxxxxxxx|xxxxxxxx|xxxxxxxx|xxxxxxxx|
+S|--o---o-|--o---o-|--o---o-|--o---o-| _
+B|oo-ooo-o|oo-ooo-o|oo-ooo-o|oo-ooo-o| / 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/   x2
+
+R|xxxxxxxx|xxxxxxxx|xxxxxxxx|xxxxxxxx|
+S|o-o-o-o-|o-o-o-o-|o-o-o-o-|o-o-o-o-| _ 
+B|-o-o-o-o|-o-o-o-o|-o-o-o-o|-o-o-o-o| / 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|/   x2
+
+H|--------|--------|--------|--------|
+S|--o---o-|--o---o-|--o---o-|--o---o-| 
+B|o----o--|o----o--|o----o--|o----o--| 
+ |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+
+H|X-------|
+S|o-------|
+B|o-------|
+ |1+2+3+4+|

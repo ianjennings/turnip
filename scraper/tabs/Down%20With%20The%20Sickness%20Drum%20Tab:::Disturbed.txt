@@ -1,0 +1,151 @@
+<i></i>
+Disturbed-Down With The Sickness
+Album: Down With the Sickness
+Drummer: Mike Wengren
+
+#=choked hi-hat
+Hf=hi-hat foot
+Ft1=Floor tom 1
+St=Small tom
+Mt=Medium tom
+Rd=Ride cymbal
+g=ghost note
+0=2 32nd notes
+X=accented hi-hat in verse, half open hi-hat when riding on it.
+Ch=China cymbal
+o=open hi-hat
+d=drag
+
+Intro:
+
+    1/4 ( Repeat 10 times)
+ St/----/o--o--o--o--o---/o--o--o--o------/
+ Mt/----/---------------o/----------------/
+Ft1/----/-oo-o--oo-o--oo-/-oo-o--oo-------/
+  B/----/ooooo-ooooo-oooo/ooooo-oooo------/
+
+                   (  Repeat 1 time )
+ C/x---------------/----------------/----------------/
+Rd/--x-x-x-x-x-x-x-/x-x-x-x-x-x-x-x-/x-x-x-x-x-x-----/
+ S/----o-------o--o/----o-------o--o/----o-------oooo/
+ B/oooo--ooooo-ooo-/oooo--ooooo-ooo-/oooo--ooooo-----/
+
+                   (  Repeat 1 time )
+ C/x---------------/----------------/----------------/
+Rd/--x-x-x-x-x-x-x-/x-x-x-x-x-x-x-x-/x-x-x-x-x-------/
+ S/----o-------o--o/----o-------o--o/----o----ooooooo/
+ B/oooo--ooooo-ooo-/oooo--ooooo-ooo-/oooo--ooo-------/
+
+Verse 1:
+
+                  ( Repeat 2 times )
+C/x---------------/----------------/
+H/----xxxxXxxxxxxx/XxxxxxxxXxxxxxxx/
+S/----o-------o---/----o-------o---/
+B/o-------o-------/o-------o-------/
+
+                  (  Repeat 1 time )
+C/x---------------/----------------/----------------/
+H/----xxxxXxxxxxxx/XxxxxxxxXxxxxxxx/XxxxxxxxX-X-----/
+S/----o-------o---/----o-------o---/----o-------oooo/
+B/o-------o-------/o-------o-------/o-------o-o-----/
+
+PreChorus:
+
+                  (  Repeat 1 time )
+C/x---------------/----------------/------------x---/
+H/----X-X-X-X-X-X-/X-X-X-X-X-X-X-X-/X-X-X-X-X-X-----/
+S/----o-------o---/----o-------o---/----o-------o-oo/
+B/o-------o-------/o-------o-------/o-------o--g----/
+
+                  (  Repeat 1 time )
+C/x---------------/----------------/--------x-------/
+H/--X-X-X-X-X-X-X-/X-X-X-X-X-X-X-X-/X-X-X-X---X-----/
+S/----o-------o---/----o-------o---/----o-------0ooo/
+B/o-------o-------/o-------o-------/o-------o--o----/
+
+Chorus:
+
+                   ( Repeat 2 times )
+ C/x---------------/----------------/
+Rd/--x-x-x-x-x-x-x-/x-x-x-x-x-x-x-x-/
+ S/----o-------o---/----o-------o---/
+ B/o--o-oo---o--oo-/o--o-oo---o--oo-/
+
+                   ( Repeat 2 times )
+ C/x---------------/----------------/
+Rd/--x-x-x-x-x-x-x-/x-x-x-x-x-x-x-x-/
+ S/----o-------o---/----o-------o---/
+ B/o--o-oo---o--oo-/o--o-oo---o--oo-/
+
+PreVerse:
+
+ St/o--o--o--o--o---/o--o--o--o--oo--/
+ Mt/---------------o/--------------o-/
+Ft1/-oo-o--oo-o--oo-/-oo-o--oo-o----o/
+  B/ooooo-ooooo-oooo/ooooo-ooooo-----/
+
+Repeat Verse 1:
+
+PreChorus 2:
+
+                   (  Repeat 1 time )
+ C/x---------------/----------------/------------x---/
+Ch/----------------/----------------/----x-x---------/
+ H/--X-X-X-X-X-X-X-/X-X-X-X-X-X-X-X-/X-X-----X-X-----/
+ S/----o-------o---/----o-------o---/----o-o--o--o-oo/
+ B/o-------o-------/o-------o-------/o--d---o---o----/
+
+                  (  Repeat 1 time )
+C/x---------------/----------------/--------x-------/
+H/--X-X-X-X-X-X-X-/X-X-X-X-X-X-X-X-/X-X-X-X---X-----/
+S/----o-------o---/----o-------o---/----o-------0ooo/
+B/o-------o-------/o-------o-------/o-------o--g----/
+
+Repeat Chorus:
+
+Bridge:
+
+  ( Repeat 6 times )
+ C/----------------/------x---x---x-/
+Ch/----------------/------------x---/
+ H/o-xx--xxxxxx--00/o-X-----X-------/
+ S/----oo------oo--/----oo------o---/
+ B/o-o-------------/o-o---o---o---o-/
+
+ (   Repeat   this   3   times   )
+C/x---------------/------------/x-----------/x-----------/
+H/----X---X---X---/X---X---X---/----X---X---/----X---X---/
+S/----o-------o---/----o-----o-/----o-----o-/----o-----o-/
+B/o-----o---o---o-/o-----o-----/o-----o-----/o-----o-----/
+                  (  these  3  measures  are  3/4  time  )        
+
+
+ (   Repeat   this   2  times  )
+C/x---------------/------------/
+H/----X---X---X---/X---X---X---/
+S/----o-------o---/----o---o---/
+B/o-----o---o---o-/o-----o-----/
+
+ H/#---------------/----------------/xxxo--xxxo--xxxo/xxxo--xxxo------/
+ S/o---------------/----------------/----------------/----------------/
+Hf/----------------/----------------/----x-----x-----/x---x-----x-----/
+
+Outro:
+
+                   (  Repeat 1 time )
+ C/x---------------/----------------/----------------/
+Rd/--x-x-x-x-x-x-x-/x-x-x-x-x-x-x-x-/x-x-x-x-x-x-----/
+ S/----o-------o--o/----o-------o--o/----o-------oooo/
+ B/oooo--ooooo-ooo-/oooo--ooooo-ooo-/oooo--ooooo-----/
+
+                   (  Repeat 1 time )
+ C/x---------------/----------------/----------------/
+Ch/----x---x---x---/x---x---x---x---/x---x---x-------/
+ H/----------------/----------------/----------#-----/
+ S/----o-------o--o/----o-------o--o/----o-----o-----/
+ B/oooo--ooooo-ooo-/oooo--ooooo-ooo-/oooo--ooooo-----/
+
+END
+please rate.
+	

@@ -1,0 +1,129 @@
+<i></i>Song: In Bloom
+Band: Nirvana
+Album: Nevermind
+
+Tabbed by: fuperman
+
+
+*************************************************************************************
+
+IMPORTANT NOTES!! - these are confusing but important!
+
+In some places there are 32nd beats. I have used the letter 'd' to indicate these. 
+When you see one it means that there are two 32nd beats there. So when you see the 
+letter 'd', play two beats there.
+
+There are also places where there are quaver triplets. This is where there are three 
+beats in a '--' for this I have used 'tt'. So when you see 'tt' play three beats.
+
+*************************************************************************************
+
+Intro
+
+ _______4x________
+C|x-----x---------|
+H|--x-x---x-------|
+T|------------F---|
+S|----o----FF-----|
+F|--------------F-|
+B|o--o--o----o-o-o|
+
+
+
+loose hats         _______3x_______
+C|x---------------|----------------|
+H|--xxxxxxxxxxxxxx|xxxxxxxxxxxxxxxx|
+S|----o-------o---|----o-------o---|
+B|o-------oo------|oo------oo------|
+
+
+
+Verse
+
+  _______3x_______
+C|----------------|----------------|
+H|xxxxxxxxxxxxxxxx|xxxxxxxxxxxxxxx-|
+S|----o-------o---|----o-------o-od|
+B|oo------oo------|oo------oo------|
+
+Loose hats
+C|x---------------|----------------|x---------------|----------------|
+H|-xxxxxxxxxxxxxxx|xxxxxxxxxxxxxxxx|-xxxxxxxxxxxxxxx|xxxxxxxx--------|
+S|----o-------o---|----o-------o---|----o-------o---|----o---dddddddd|
+B|oo------oo------|oo------oo------|oo------oo------|oo--------------|
+
+
+
+Chorus
+
+  _______4x_______
+C|x---------------|x------x--------|x------x--------|
+H|--x-x-x-x-x-x-x-|--x-x-x---x-----|--x-x-x---x-----|
+T|----------------|------------tt--|----------------| play 2x
+S|----o-------o---|----o-o---oo----|----o-o---ootttt|
+F|----------------|--------------tt|----------------|
+B|o--o-o-oo--o-o-o|o-oo---o-o------|o-oo---o-o------|
+
+
+
+Interlude
+
+ _______4x________
+C|x-----x---------|
+H|--x-x---x-------|
+T|------------F---|
+S|----o----FF-----|
+F|--------------F-|
+B|o--o--o----o-o-o|
+
+
+
+Repeat Verse
+
+
+Repeat Chorus
+
+
+Repeat Interlude
+
+
+
+Guitar Solo
+
+                   _______3x_______
+C|x---------------|----------------|
+H|-xxxxxxxxxxxxxxx|xxxxxxxxxxxxxxxx|
+S|----o-------o---|----o-------o---|
+B|o-------oo------|oo------oo------|
+
+
+C|x---------------|----------------|x---------------|----------------|
+H|-xxxxxxxxxxxxxxx|xxxxxxxxxxxxxxxx|-xxxxxxxxxxxxxxx|xxxxxxxx--------|
+S|----o-------o---|----o-------o---|----o-------o---|----o---dddddddd|
+B|oo------oo------|oo------oo------|oo------oo------|oo--------------|
+
+
+
+Repeat Chorus
+
+
+Outro
+
+
+  _______4x_______ _______3x_______
+C|x---------------|x------x--------|x------x--------|
+H|--x-x-x-x-x-x-x-|--x-x-x---x-----|--x-x-x---x-----|
+T|----------------|------------tt--|----------------|
+S|----o-------o---|----o-o---oo----|----o-o---ootttt|
+F|----------------|--------------tt|----------------|
+B|o--o-o-oo--o-o-o|o-oo---o-o------|o-oo---o-o------|
+
+
+  _______4x_______
+C|x-----x---------|x---------------|
+H|--x-x---x-------|----------------|
+T|------------F---|----------------|
+S|----o----FF-----|----------------|
+F|--------------F-|----------------|
+B|o--o--o----o-o-o|o---------------|
+

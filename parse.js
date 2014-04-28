@@ -1,9 +1,9 @@
 var fs = require('fs');
-var file = fs.readFileSync('shiver.txt');
+var file = fs.readFileSync('sayitaintso.txt');
 var colors = require('colors')
 
 var config = {
-  measure: '|'
+  measure: /\|| /
 };
 
 /*

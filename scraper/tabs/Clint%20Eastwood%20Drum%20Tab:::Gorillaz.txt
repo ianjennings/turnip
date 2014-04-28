@@ -1,0 +1,52 @@
+<i></i>-------------------------------------------------------------------------------
+                            Clint Eastwood - Gorillaz
+-------------------------------------------------------------------------------
+Tabbed by: Martin Messner
+Email: bigbonsai@hotmail.de
+
+//////////////////////////////////////////////
+//                                          //
+//  RATING THIS TAB TAKES ABOUT 5 SECONDS   //
+//  AND HELPS ME TO IMPROVE MY WORK         //
+//                                          //
+//////////////////////////////////////////////
+
+B  = Bass
+S  = Snare
+T1 = Tomtom 1
+T2 = Tomtom 2
+T3 = Floortom
+HH = HiHat (x = closed, o = open)
+C  = Crash
+R  = Ride
+
+
+Regular groove:
+
+HH:--X---X-------X---X---X-------X-|
+S :----o-------o-------o-------o---|
+B :O-------O-o-----O-------O-o-----|
+   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 
+
+Regular Fill-In (and Intro)
+
+C :------------------------X-X-X-X-|
+HH:--X---X-------X---o---o---------|
+S :----o-------o-------o-----------|
+B :O-------O-o-----O---------------|
+   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 
+
+
+later:
+HH:--------------------------------|
+S :----o-------o-------o-------o---|
+B :O------oO-o-----O------oO-o---o-|
+   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 
+
+HH:X---X---X---X---X---X---X---X---|
+S :----o-------o-------o-------o---|
+B :O------oO-o-----O------oO-o---o-|
+   1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 
+
+Really easy but cool song, have fun
+Martin Messner :)
